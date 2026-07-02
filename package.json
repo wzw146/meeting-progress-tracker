@@ -1,0 +1,9 @@
+﻿{
+  "name": "meeting-progress-tracker",
+  "version": "1.0.0",
+  "description": "会议全流程进度跟踪 - 多人实时协作系统",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
